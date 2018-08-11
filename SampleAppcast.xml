@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    
+    <channel>
+        
+        <title>贪玩开发者工具</title>
+        
+        <link>http://10.242.45.198:8902/MSUpdate/msupdate_1_2.xml</link>
+        
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        
+        <item>
+            <title>Version 1.3</title>
+            
+            <description>
+                <![CDATA[
+                    <ul>
+                    <li>更新了脚本</li>
+                    </ul>
+                ]]>
+            </description>
+            
+            <pubDate>Wed, 16 May 2018 11:20:11 +0000</pubDate>
+            <enclosure url="http://127.0.0.1:8902/TWiPaTool.zip" sparkle:version="1.3"
+            length="1887436"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIQDjDdGLyBhyGqLveeQnowSQP/Cse9QuPu7TzL4FUXJFVgIgFMFqHXk3z65Y
+            0kCDr7JJKQbrTJPf66U6bspRHxbGCp4="/>
+            
+        </item>
+        
+    </channel>
+</rss>
